@@ -61,6 +61,7 @@ while True==True:
             auto.click()
             auto.sleep(1)
             auto.click(1140, 697)
+            auto.click()
             intentos = 0
             auto.sleep(5)
 

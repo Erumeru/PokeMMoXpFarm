@@ -29,12 +29,16 @@ while True==True:
         auto.sleep(1)
         auto.click(1144, 443)
         auto.click()
+        auto.click()
+        auto.click()
         auto.sleep(5)
         i = 0
         while i <= 3:
             auto.click(1571, 760)
+            auto.click()
             auto.sleep(.3)
             auto.moveTo(963, 523)
+            auto.click()
             auto.click()
             i = i + 1
 
@@ -120,8 +124,10 @@ while True==True:
     i = 0
     while i <= 3:
         auto.click(1571, 760)
+        auto.click()
         auto.sleep(.3)
         auto.moveTo(963, 523)
+        auto.click()
         auto.click()
         i = i + 1
 
@@ -163,8 +169,10 @@ while True==True:
     i = 0
     while i <= 3:
         auto.click(1571, 760)
+        auto.click()
         auto.sleep(.3)
         auto.moveTo(963, 523)
+        auto.click()
         auto.click()
         i = i + 1
 
@@ -172,16 +180,20 @@ while True==True:
     i = 0
     while i <= 3:
         auto.click(1571, 760)
+        auto.click()
         auto.sleep(.3)
         auto.moveTo(963, 523)
+        auto.click()
         auto.click()
         i = i + 1
     auto.sleep(5)
     i = 0
     while i <= 3:
         auto.click(1571, 760)
+        auto.click()
         auto.sleep(.3)
         auto.moveTo(963, 523)
+        auto.click()
         auto.click()
         i = i + 1
     auto.sleep(5)
@@ -218,8 +230,10 @@ while True==True:
         i = 0
         while i <= 3:
             auto.click(1571, 760)
+            auto.click()
             auto.sleep(.3)
             auto.moveTo(963, 523)
+            auto.click()
             auto.click()
             i = i + 1
         auto.sleep(2)
@@ -228,8 +242,10 @@ while True==True:
     i = 0
     while i <= 3:
         auto.click(1571, 760)
+        auto.click()
         auto.sleep(.3)
         auto.moveTo(963, 523)
+        auto.click()
         auto.click()
         i = i + 1
 
@@ -265,8 +281,10 @@ while True==True:
     i=0
     while i <= 3:
         auto.click(1571, 760)
+        auto.click()
         auto.sleep(.3)
         auto.moveTo(963, 523)
+        auto.click()
         auto.click()
         i = i + 1
     auto.sleep(2)
