@@ -2,7 +2,7 @@ import pyautogui as auto
 
 auto.sleep(2)
 seguir=True
-pp=0
+pp=29
 intentos=0
 while True==True:
     while seguir==True:
